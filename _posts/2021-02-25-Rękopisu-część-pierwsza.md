@@ -10,30 +10,6 @@ layout: post
         <h3 title="TRAVEL DIARY">DZIENNIK PODRÓŻY</h3>
         <br>
     </div>
-     <style>
-        /* div.translate span:hover {
-            color: seagreen;
-        }
-        h1:hover {
-            color: seagreen;
-        } */
-        h2:hover {
-            color: red;
-        }
-        /* h3:hover {
-            color: seagreen;
-        } */
-        /* h4:hover {
-            color: seagreen;
-        }
-        img {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            max-width: 80%;
-            height: auto; */
-        }
-    </style>
 </body>
 
 ![Żuławski-Na srebrnym globie ilustracja p029.jpg](assets/images/Żuławski-Na_srebrnym_globie_ilustracja_p029.jpg)

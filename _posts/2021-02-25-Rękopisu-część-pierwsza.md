@@ -10,8 +10,7 @@ layout: post
         <h2 title="Part 1">Rękopisu część pierwsza</h2>
         <h3 title="TRAVEL DIARY">DZIENNIK PODRÓŻY</h3>
         <br>
-        <img src=https://upload.wikimedia.org/wikipedia/commons/8/8e/%C5%BBu%C5%82awski-Na_srebrnym_globie_ilustracja_p029.jpg
-            alt="Żuławski-Na srebrnym globie ilustracja p029.jpg">
+        ![Żuławski-Na srebrnym globie ilustracja p029.jpg](/assets/Żuławski-Na_srebrnym_globie_ilustracja_p029.jpg)
     </div>
      <style>
         div.translate span:hover {

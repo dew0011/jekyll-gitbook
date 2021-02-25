@@ -1,5 +1,4 @@
 ---
-title: Rękopisu część pierwsza
 author: dew0011
 date: 2021-02-25
 layout: post
@@ -10,7 +9,6 @@ layout: post
         <h2 title="Part 1">Rękopisu część pierwsza</h2>
         <h3 title="TRAVEL DIARY">DZIENNIK PODRÓŻY</h3>
         <br>
-        ![Żuławski-Na srebrnym globie ilustracja p029.jpg](/assets/Żuławski-Na_srebrnym_globie_ilustracja_p029.jpg)
     </div>
      <style>
         div.translate span:hover {
@@ -36,5 +34,6 @@ layout: post
             height: auto;
         }
     </style>
-
 </body>
+
+![Żuławski-Na srebrnym globie ilustracja p029.jpg](/assets/Żuławski-Na_srebrnym_globie_ilustracja_p029.jpg)

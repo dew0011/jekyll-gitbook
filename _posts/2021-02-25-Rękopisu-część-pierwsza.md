@@ -36,8 +36,4 @@ layout: post
     </style>
 </body>
 
-![Żuławski-Na srebrnym globie ilustracja p029.jpg](/assets/Żuławski-Na_srebrnym_globie_ilustracja_p029.jpg)
-
-Some text
-
 ![Żuławski-Na srebrnym globie ilustracja p029.jpg](assets/Żuławski-Na_srebrnym_globie_ilustracja_p029.jpg)

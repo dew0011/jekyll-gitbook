@@ -7,7 +7,7 @@ title: Rękopisu część pierwsza - Part 1
 
 <body>
     <div class="translate">
-        <h2 title="TRAVEL DIARY">DZIENNIK PODRÓŻY</h2>
+        <h3 title="TRAVEL DIARY">DZIENNIK PODRÓŻY</h3>
         <br>
     </div>
 </body>
